@@ -10,4 +10,4 @@ course code and materials for UNSW
 ----------------------------------
 
 20T1: COMP9318  COMP9315
-
+20T2: COMP9315  COMP9900
